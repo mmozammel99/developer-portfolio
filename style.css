@@ -12,7 +12,7 @@ h1 {
     color: #8fd82f;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
